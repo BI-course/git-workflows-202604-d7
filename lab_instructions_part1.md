@@ -1,4 +1,4 @@
-# Collaborative Git Workflows: Part 1
+g# Collaborative Git Workflows: Part 1
 
 This lab is designed for a team of five members to practice **GitHub Flow** while understanding alternative Git workflows. You will focus on **team governance**, **branch protection**, and **explicit merging** without fast-forwarding to maintain a clear audit trail.
 
