@@ -10,6 +10,16 @@
 | **Contact**      | aomondi@strathmore.edu                                                                                                                                                                                                       |
 | **Note**         | The lecture contains both theory and practice.<br/>This notebook forms part of the practice.<br/>It is intended for educational purpose only.<br/>Recommended citation: [BibTex](https://raw.githubusercontent.com/course-files/Git/refs/heads/main/RecommendedCitation.bib) |
 
+## Admins
+
+| Name                | Role  |
+|---------------------|-------|
+| Sol Imamai          | admin |
+| Shantelle Nkatha    | admin |
+| Emmanuel Ogaro      | admin |
+| Dilicon Kihoro      | admin |
+| Kulubya Hassan      | admin |
+
 ## Lab Manuals
 
 Refer to the files in the order specified below for more details:
