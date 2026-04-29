@@ -1,7 +1,7 @@
 # Technical Architecture and Dimensional Paradigms:  
 ## The Star Schema as a Foundation for Enterprise Business Intelligence
 
-The evolution of data warehousing architecture has been characterized by a persistent tension between data integrity and query performance. While Third Normal Form (3NF) was engineered to eliminate redundancy in transactional systems, the inherent limitations of highly normalized structures in analytical environments led to the "join explosion" that degraded performance (Inmon, 2002).
+The evolution of data warehousing architecture has been characterized by a persistent tension between data integrity and query performance. While Third Normal Form (3NF) was engineered to eliminate redundancy in transactional systems, the inherent limitations of highly normalized structures in analytical environments led 44to the "join explosion" that degraded performance (Inmon, 2002).
 
 The star schema, formalized by Ralph Kimball in the mid-1990s and updated in *The Data Warehouse Toolkit (3rd ed., 2013)*, emerged as the fundamental shift required for decision support. As of 2026, this architectural standard remains the universal language of analytics, powering over 90% of enterprise data warehouses (Kimball & Ross, 2013; Saifi, 2025).
 
