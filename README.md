@@ -17,7 +17,7 @@
 | Sol Imamai          | admin |
 | Shantelle Nkatha    | admin |
 | Emmanuel Ogaro      | admin |
-| Dilicon Kihoro      | admin |
+| Dilicon Kihor      | admin |
 | Kulubya Hassan      | admin |
 
 ## Lab Manuals
