@@ -18,6 +18,7 @@
 | Shantelle Nkatha    | admin |
 | Emmanuel Ogaro      | admin |
 | Dilcon Kihoro      | admin |
+
 | Kulubya Hassan      | admin |
 
 ## Lab Manuals
