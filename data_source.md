@@ -35,3 +35,6 @@ Source Examples: Internet of Things (IoT) sensor feeds, web server logs (clickst
 Infrastructure: Unlike traditional batch processing, streaming requires event brokers like Apache Kafka or Amazon Kinesis to buffer and sequence data before it is ingested into a Data Lake or a real-time analytics engine.
 
 Analytical Value: This allows for Prescriptive Analytics, such as real-time fraud detection or dynamic pricing, where the window of opportunity for action is measured in seconds rather than days.
+
+
+this a mistake simulation of lab member 2 (git cherry pick) 
